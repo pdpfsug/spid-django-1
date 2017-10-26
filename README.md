@@ -16,6 +16,9 @@ https://github.com/umbros/spid-docs/blob/master/pages/documentazione-e-utilita.m
 
 ## General overview
 
+* Packages required (Debian): 
+	libxml2-dev python3-dev docker-compose libxmlsec1-dev pkg-config zlib1g-dev
+
 * Clone the repository, create a **virtualenv** and install the requirements.
   ``` bash
   pip install -r requirements.txt
